@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">timer</string>
+    <string name="timer">開始</string>
+    <string name="reset">リセット</string>
+    <string name="hour_colon">:</string>
+    <string name="second">00</string>
+    <string name="second_colon">:</string>
+    <string name="minute">00</string>
+    <string name="triangleUp_s">△</string>
+    <string name="triangleUp_m">△</string>
+    <string name="triangleDown_s">▽</string>
+    <string name="triangleDown_m">▽</string>
+</resources>
